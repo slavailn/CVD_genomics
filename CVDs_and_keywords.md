@@ -1,27 +1,44 @@
 This file contains data related to identification of Cardiovascular Diseases (CVDs) and related conditions
+
 The purpose of this data is to formulate keywords for literature and database searches
+
 The keywords are shown in italic
 
 ## Cardiovascular disease and search keywords
 
 #### 1. CVDs due to atherosclerosis:
-*Atherosclerosis*
-*Ischaemic heart disease* or *coronary artery disease* (e.g. *heart attack*, *infarction*, *heart failure*, *sudden cardiac arrest*, *venous thromboembolism*) 
-*Cerebrovascular disease* (e.g. *stroke*, *aneurysm*) 
-Diseases of the aorta and arteries, including *hypertension*, *peripheral vascular (arterial) disease*, *abdominal aortic aneurism*
+
+* *Atherosclerosis*
+
+* *Ischaemic heart disease* or *coronary artery disease* (e.g. *heart attack*, *infarction*, *heart failure*, *sudden cardiac arrest*, *venous thromboembolism*) 
+
+* *Cerebrovascular disease* (e.g. *stroke*, *aneurysm*) 
+
+* Diseases of the aorta and arteries, including *hypertension*, *peripheral vascular (arterial) disease*, *abdominal aortic aneurism*
 
 
 #### 2. Other CVDs
+
 *Congenital heart disease* 
+
 *Rheumatic heart disease* 
+
 *Cardiomyopathies* 
+
 *Cardiac arrhythmias*
+
 *Lone atrial fibrillation*
+
 *Sick sinus syndrome*
+
 *Valvular heart diseases*
+
 *Tromboembolic disease*
+
 *Arrhythmia*
+
 *Pulmonary hypertension*
+
 *Pericardial complication*
  
 

@@ -19,34 +19,37 @@ The keywords are shown in italic
 
 #### 2. Other CVDs
 
-*Congenital heart disease* 
+* *Congenital heart disease* 
 
-*Rheumatic heart disease* 
+* *Rheumatic heart disease* 
 
-*Cardiomyopathies* 
+* *Cardiomyopathies* 
 
-*Cardiac arrhythmias*
+* *Cardiac arrhythmias*
 
-*Lone atrial fibrillation*
+* *Lone atrial fibrillation*
 
-*Sick sinus syndrome*
+* *Sick sinus syndrome*
 
-*Valvular heart diseases*
+* *Valvular heart diseases*
 
-*Tromboembolic disease*
+* *Tromboembolic disease*
 
-*Arrhythmia*
+* *Arrhythmia*
 
-*Pulmonary hypertension*
+* *Pulmonary hypertension*
 
-*Pericardial complication*
+* *Pericardial complication*
  
-
 #### 3. Metabolic risk factors
-*Raised blood pressure (hypertension) 
-*Raised blood sugar (diabetes)* 
-*Raised blood lipids (dislipidemia)* 
-*Overweight and obesity* 
+
+* *Raised blood pressure (hypertension) 
+
+* *Raised blood sugar (diabetes)* 
+
+* *Raised blood lipids (dislipidemia)* 
+
+* *Overweight and obesity* 
 
  Sources:
 https://web.archive.org/web/20140817123106/http://whqlibdoc.who.int/publications/2011/9789241564373_eng.pdf?ua=1

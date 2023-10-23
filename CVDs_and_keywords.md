@@ -40,6 +40,8 @@ The keywords are shown in italic
 * *Pulmonary hypertension*
 
 * *Pericardial complication*
+
+* *Deep vein trombosis*
  
 #### 3. Metabolic risk factors
 
@@ -47,9 +49,19 @@ The keywords are shown in italic
 
 * *Raised blood sugar (diabetes)* 
 
-* *Raised blood lipids (dislipidemia)* 
+* *Raised blood lipids (dislipidemia, raised cholesterol)*, *metabolic syndrome* 
 
 * *Overweight and obesity* 
+
+#### 4. Lifestyle (interaction) factors
+
+* *smoking*
+
+* *diet*
+
+* *sedentary lifestyle*
+
+* *alcohol intake* 
 
  Sources:
 https://web.archive.org/web/20140817123106/http://whqlibdoc.who.int/publications/2011/9789241564373_eng.pdf?ua=1

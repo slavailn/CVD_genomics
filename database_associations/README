@@ -1,3 +1,9 @@
 This folder contains small nucleotide associations with cardiovascular disease 
 and their underlying states collected from public databases.
 
+1. CVD_knowledge_master_table : DEC 6, 2023 : GWAS data dowloaded from CVD knowledge portal https://cvd.hugeamp.org/
+2. ClinVar_master_table_DEC4_2023 : DEC4, 2023 : GWAS data from ClinVar https://www.ncbi.nlm.nih.gov/clinvar/
+3. GWAS_master_table_NOV16_2023 : NOV16, 2023 : GWAS data from GWAS catalog https://www.ebi.ac.uk/gwas/
+4. EWAS_master_table_Dec6_2023 : Dec6, 2023 : EWAS data from EWAS catalog https://www.ewascatalog.org/
+5. EwasAtlas_master_table_Jan01_2024 : Jan 1, 2024 : Data from EWAS atlas https://ngdc.cncb.ac.cn/ewas/atlas
+

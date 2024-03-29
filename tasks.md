@@ -7,6 +7,8 @@
 |EWAS catalog search|Download EWAS assoc from EWAS catalog|slava|completed|done by Slava|
 |EWAS atlas search|Download EWAS assoc from EWAS Atlas|slava|completed|done by Slava|
 |EWAS literature search|Find EWAS studies related to CVD conditions|slava, salma, esmaeel|completed|divided between team members|
+|Extract EWAS associations from literature|Extract EWAS associations with select CVDs from the studies there were not covered by exisiting databased|slava, salma, esmaeel, sveta|in_process|divided between team members|
+
 
 
 

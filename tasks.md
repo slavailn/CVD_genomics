@@ -8,6 +8,10 @@
 |EWAS atlas search|Download EWAS assoc from EWAS Atlas|slava|completed|done by Slava|
 |EWAS literature search|Find EWAS studies related to CVD conditions|slava, salma, esmaeel|completed|divided between team members|
 |Extract EWAS associations from literature|Extract EWAS associations with select CVDs from the studies there were not covered by exisiting databased|slava, salma, esmaeel, sveta|in_process|divided between team members|
+|EWAS tables harmonization|Combine EWAS associations from different data bases and literature into a single table|slava|completed|completed by slava|
+|Add EWAS annotation|Create EWAS annotation tables including 1. gene coordinate table; 2. a table that relates CpG probes to genes; 3. a table that relates CpG probes to CpG islands and shores|slava|completed|completed by slava|
+|Add GWAS annotation|Annotate RS Ids of interest using Ensembl Variant Effect predictor|slava|in_process|Extracted the SNPs of interest from SNPdb, preparing VEP run|
+
 
 
 
